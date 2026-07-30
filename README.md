@@ -52,6 +52,8 @@ and act — solving real-world problems through automation and data-driven decis
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Frameworks &amp; Tools**
 
@@ -64,6 +66,8 @@ and act — solving real-world problems through automation and data-driven decis
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 
 **Cloud &amp; MLOps**
 
@@ -90,6 +94,8 @@ and act — solving real-world problems through automation and data-driven decis
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **🤖 Agentic AI Assistant** | Advanced AI platform with multi-agent reasoning, long-term memory, RAG, and multi-modal (document, vision, voice) inputs — deployed as a live web app. | [Repo](https://github.com/Akhil-60/agentic-ai-assistant) · [Live Demo](https://akhil060-akhil-ai-agent.hf.space) |
+| **📄 AI Invoice Automation** | End-to-end pipeline that turns invoice emails into approved database records — Gmail → PDF extraction → **FastAPI + Gemini** → **Airtable**, with human-in-the-loop approval, orchestrated in **n8n**. | [Repo](https://github.com/Akhil-60/Anthrasync-Assistant) |
+| **🔮 Vedaz AI Astrologer** | AI Vedic-astrologer pipeline — validates &amp; generates safe Hinglish astrology chats and scores response quality with an LLM judge (Safety, Warmth, Honesty, Helpfulness); Streamlit live-chat dashboard. | [Repo](https://github.com/Akhil-60/Vedaz_AI_Assignment) · [Live Demo](https://vedazaiassignment-j6skspn3qxk2jigu49polu.streamlit.app/) |
 | **🧠 Community Intelligence Platform** | Detects research collaboration communities from live OpenAlex data using the Louvain algorithm; interactive dashboard deployed to production on AWS. | [Repo](https://github.com/Akhil-60/community-intelligence-platform) · [AWS Live](https://communityintel.duckdns.org) · [Streamlit](https://community-intelligence-platform-e4z3n2nugpclbakdsnjmbx.streamlit.app) |
 | **🏠 GharIQ — Home Value Estimator** | End-to-end ML web service predicting Indian home prices (64,000+ listings); HistGradientBoosting served via a FastAPI REST API, containerized with Docker and a GitHub Actions CI pipeline. | [Repo](https://github.com/Akhil-60/gharIQ) · [Live Demo](https://akhil060-ghariq.hf.space) |
 | **💬 SentimentSense** | ML-based sentiment analyzer classifying product reviews (positive / negative / neutral) at 88% accuracy — comparing Naive Bayes, SVM, and Logistic Regression. | [Repo](https://github.com/Akhil-60/SentimentSense) |
